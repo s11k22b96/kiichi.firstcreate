@@ -1,0 +1,73 @@
+@charset "utf-8";
+.flex-all{
+    display: flex;
+    padding: 80px;
+    justify-content:center;
+}
+
+.a1{
+    width: 360px;
+    height: 55px;
+}
+
+.flex_test-menu{
+    width: 840px;
+    margin: auto;
+    display: flex;
+    justify-content:space-between;
+    flex-wrap: wrap;
+}
+
+.a{
+    width: 256px;
+    height: 144px;
+}
+.morning{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.morning2{
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+.morning-money{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.b{
+    width: 256px;
+    height: 144px;
+}
+
+.c{
+    width: 256px;
+    height: 144px;
+}
+
+.d{
+    width: 256px;
+    height: 144px;
+}
+
+.e{
+    width: 256px;
+    height: 144px;
+}
+
+.f{
+    width: 256px;
+    height: 144px;
+}
+
+#footer {
+	width: 100%;
+    height: 100%;
+    background: #376621;
+	color: #FFF;
+    font-size: 14px;
+	text-align: center;
+}
